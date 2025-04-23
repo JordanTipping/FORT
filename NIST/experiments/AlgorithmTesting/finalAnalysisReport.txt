@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
+------------------------------------------------------------------------------
+   generator is <flattened_salt.bin>
+------------------------------------------------------------------------------
+ C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
+------------------------------------------------------------------------------
+ 17   9   6   8  14  12   5   9  13   7  0.145326     98/100     Frequency
+ 14   7  10  13  12  11   7  10   7   9  0.759756     98/100     BlockFrequency
+ 13  10   6   9  14  17   7   7  11   6  0.181557     99/100     Runs
+ 12  10  15   8   6  10  10  13   6  10  0.595549     96/100     Universal
+ 16   5   5  13  10   9  18   7   8   9  0.042808     99/100     ApproximateEntropy
+  8  10   7  11  13  10  12  10  10   9  0.971699    100/100     LinearComplexity
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The minimum pass rate for each statistical test with the exception of the
+random excursion (variant) test is approximately = 96 for a
+sample size = 100 binary sequences.
+
+For further guidelines construct a probability table using the MAPLE program
+provided in the addendum section of the documentation.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

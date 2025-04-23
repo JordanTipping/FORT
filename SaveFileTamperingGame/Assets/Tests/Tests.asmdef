@@ -1,0 +1,30 @@
+{
+    "name": "Tests",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "FortAssembly",
+        "Nethereum"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Nethereum.Contracts.dll",
+        "Nethereum.Web3.dll",
+        "Nethereum.RPC.dll",
+        "Nethereum.JsonRpc.Client.dll",
+        "Microsoft.Extensions.Logging.Abstractions.dll",
+        "Nethereum.Hex.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
