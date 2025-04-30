@@ -84,7 +84,5 @@ NIST Suite is included aswell as Accumulated_salt.txt, and a post processing uti
 
 ## Project Demo - Including deploying contract. 
 
-**Video URL**
----
-
+https://uweacuk-my.sharepoint.com/:v:/g/personal/jordan2_tipping_live_uwe_ac_uk/ETrYM7JydS5NhjQRIwJAgXwB1gZOj2jRr2nJXFVSVfZn8A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=700OgP
 
